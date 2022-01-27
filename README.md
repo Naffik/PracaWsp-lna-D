@@ -1,0 +1,1 @@
+# PracaWsp-lna-D
