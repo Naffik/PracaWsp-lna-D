@@ -2,5 +2,5 @@
 
 ## Plik OHzT
 ## Plik OHzTzW
-## Plik Fazowanie
-## Plik Fazowanie4
+## Plik Fazowane
+## Plik Fazowane 4
