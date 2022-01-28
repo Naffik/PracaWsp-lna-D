@@ -1,7 +1,6 @@
-# Praca utworzona dzięki pomocy tych oto Panów
+# Funkcje napisane w języku Python służące do obliczania równań pierwszego rzędzu oraz wyświetlania wydruków
 
-1. Patryk Moskal
-2. Paweł Pajor
-3. Maciej Płonowski
-4. Jakub Ziemba
-5. Krzysztof Niezabitowski
+## Plik OHzT
+## Plik OHzTzW
+## Plik Fazowanie
+## Plik Fazowanie4
